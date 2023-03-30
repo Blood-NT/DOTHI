@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "xlocnum": "cpp",
+        "system_error": "cpp",
+        "xlocale": "cpp",
+        "new": "cpp"
+    }
+}
